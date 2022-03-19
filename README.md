@@ -4,11 +4,9 @@
 - 🥅 My 2022 goal is to learn React  
 - 📫 How to reach me: beatricemagana1@gmail.com | [Website](https://www.beatricemagana.com/) | [LinkedIn](https://www.linkedin.com/in/beatricemagana/)
 
-<br/>
 ### Tools and Languages
 
 
-<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
