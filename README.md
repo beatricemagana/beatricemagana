@@ -4,10 +4,10 @@
 - 🥅 My 2022 goal is to learn React  
 - 📫 How to reach me: beatricemagana1@gmail.com 
 
-#### Connect with me 
+&#9; #### Connect with me 
 [Website](https://www.beatricemagana.com/) | [LinkedIn](https://www.linkedin.com/in/beatricemagana/)
 
-#### Tools and Languages
+&#9; #### Tools and Languages
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
