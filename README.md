@@ -5,7 +5,7 @@
 - 📫 How to reach me: beatricemagana1@gmail.com | [Website](https://www.beatricemagana.com/) | [LinkedIn](https://www.linkedin.com/in/beatricemagana/)
 
 <br/>
-#### Tools and Languages
+### Tools and Languages
 
 
 <br/>
