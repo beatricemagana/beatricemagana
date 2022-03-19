@@ -2,9 +2,12 @@
 - 👀 I’m interested in UX Design and Front-End Web Development 
 - 🌱 I’m currently learning UX/UI Design
 - 🥅 My 2022 goal is to learn React  
-- 📫 How to reach me: beatricemagana1@gmail.com | [Website](https://www.beatricemagana.com/) | [LinkedIn](https://www.linkedin.com/in/beatricemagana/)
+- 📫 How to reach me: beatricemagana1@gmail.com 
 
-### Tools and Languages
+#### Connect with me 
+[Website](https://www.beatricemagana.com/) | [LinkedIn](https://www.linkedin.com/in/beatricemagana/)
+
+#### Tools and Languages
 
 
 <details>
